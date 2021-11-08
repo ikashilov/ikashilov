@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikashilov)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikashilov&count_private=true)
 
 
 <!-- - 🔭 I’m currently working at [DDoS-Guard](https://ddos-guard.net/en)
