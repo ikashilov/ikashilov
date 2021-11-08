@@ -7,4 +7,4 @@
 - 📫 I can be reached on [Telegram](https://t.me/ikashilov) and [LinkedIn](https://www.linkedin.com/in/ikashilov/)
 - :bookmark_tabs: Check out my [Resume](https://ikashilov.github.io/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikashilov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikashilov&layout=compacta&exclude_repo=ikashilov.github.io)](https://github.com/anuraghazra/github-readme-stats)
