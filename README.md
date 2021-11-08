@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikashilov&count_private=true&show_icons=true&theme=midnight-purple)
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikashilov&count_private=true&show_icons=true)
 
 - 🔭 I’m currently working at [Wildberries](https://us.wildberries.ru)
 - 🌱 I’m currently learning [Rust](https://doc.rust-lang.org/book/title-page.html) and 🇮🇱 🇨🇳
