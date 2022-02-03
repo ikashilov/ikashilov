@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikashilov&count_private=true&show_icons=true)
 
 - 🔭 I’m currently working at [Wildberries](https://us.wildberries.ru)
