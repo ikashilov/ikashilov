@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233514B1&size=40&duration=4000&width=1000&height=60&lines=Hey%F0%9F%91%8B+I'm+Ivan+Kashilov+%E2%80%93+SW+Engineer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233514B1&size=40&duration=4000&width=1000&height=60&lines=Hey%F0%9F%91%8B+I'm+Ivan+Kashilov+%E2%80%93+SW+Engineer👨‍💻+)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=ikashilov)
 
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikashilov&count_private=true&show_icons=true)
